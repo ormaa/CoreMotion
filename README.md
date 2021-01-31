@@ -2,9 +2,10 @@
 CoreMotion sample using SwiftUI and Combines to get update on UI.
 
 I decided to update an old project done for test purpose.
-I used SwiftUI and Combines, which is really nice feature from Apple.
+I used SwiftUI , which is really nice feature from Apple.
 
-I tried to implement something like an MVVM pattern : the Binding of SwiftUI and Combines is perfect for that.
+I tried to implement something like an MVVM pattern : the Binding of SwiftUI is perfect for that.
+I did not used combine here, as I don't really need it for that simple project.
 
 My architecture is really simple :
 I have only one screen, with a Main view : ContentView
